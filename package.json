@@ -1,0 +1,7 @@
+{
+  "name": "beeetrack-javascript-test",
+  "version": "1.0.0",
+  "devDependencies": {
+    "json-server": "^0.11.2"
+  }
+}
