@@ -31,11 +31,10 @@ El proyecto incluye la api y la base de datos de almacenamiento. La api es REST,
 | POST          | /api/users     |    Crea un usuario nuevo. Debe incluir el header `Content-Type: application/json`, y los parámetros en formato JSON. Ej: `{"name": "Algún nombre","description": "Alguna descripción","photo": "Alguna URL"}`|
 | DELETE        | /api/users/:id |    Elimina el usuario correspondiente al id dado. |
 ### Criterios de evaluación
-No se pide específicamente el uso de ningún framework de javascript, aunque dará valor adicional el uso de [React](https://facebook.github.io/react/). Esto no impide pode realizar el test con `Jquery` o vanilla javascript. Adicionalmente se evaluarán los siguientes puntos:
+Se pide específicamente el uso de [React](https://facebook.github.io/react/). Dará un valor adicional, aunque no es obligatorio, el uso además de [Redux](https://redux.js.org). Adicionalmente se evaluarán los siguientes puntos:
 1. Utilización de patrones, buenas prácticas en el código y arquitectura acorde
 2. Documentación en el código
 3. Diseño lo más similar posible a las imágenes mostradas más arriba
-4. Explicación adecuada de la elección del framework a usar
-5. Tiempo en realizar la tarea
+4. Tiempo en realizar la tarea
 ### Plazos y envío
 Esta prueba no considera plazos máximos de entrega, pero el tiempo es un criterio de evaluación, por lo que se espera una buen balance entre calidad y el tiempo usado. Una vez terminada la tarea, por favor adjuntar el proyecto modificado, y enviarlo a [dev@beetrack.com](mailto:dev@beetrack.com). Se recibirá sólo una entrega por candidato (solamente la primera), por lo tanto enviar cuando esté completamente listo.
