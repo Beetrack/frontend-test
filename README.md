@@ -1,6 +1,6 @@
 ## Beetrack Front-end Test
 ### Introducción
-La siguiente prueba busca evaluar los conocimientos en javascript, css y html. Para consultas, enviar un correo a [dev@beetrack.com](mailto:dev@beetrack.com).
+La siguiente prueba busca evaluar los conocimientos en javascript, css y html. Para consultas, enviar un correo a [engineering@beetrack.com](mailto:engineering@beetrack.com).
 ### Descripción e instalación
 Se adjunta un proyecto de nodejs, con una pequeña base de datos y una api ya desarrollada. Para ejecutar el proyecto, una vez descargado hay que correr las siguientes líneas por línea de comandos en el root del proyecto:
 ```
@@ -37,4 +37,4 @@ Se pide específicamente el uso de [React](https://facebook.github.io/react/). D
 3. Diseño lo más similar posible a las imágenes mostradas más arriba
 4. Tiempo en realizar la tarea
 ### Plazos y envío
-Esta prueba no considera plazos máximos de entrega, pero el tiempo es un criterio de evaluación, por lo que se espera una buen balance entre calidad y el tiempo usado. Una vez terminada la tarea, por favor adjuntar el proyecto modificado, y enviarlo a [dev@beetrack.com](mailto:dev@beetrack.com). Se recibirá sólo una entrega por candidato (solamente la primera), por lo tanto enviar cuando esté completamente listo.
+Esta prueba no considera plazos máximos de entrega, pero el tiempo es un criterio de evaluación, por lo que se espera una buen balance entre calidad y el tiempo usado. Una vez terminada la tarea, por favor adjuntar el proyecto modificado, y enviarlo a [engineering@beetrack.com](mailto:engineering@beetrack.com). Se recibirá sólo una entrega por candidato (solamente la primera), por lo tanto enviar cuando esté completamente listo.
